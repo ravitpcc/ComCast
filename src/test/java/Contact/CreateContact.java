@@ -12,6 +12,8 @@ public class CreateContact
 		System.out.println(" user 1 second change");
 		System.out.println(" user 2 Second Change");
 		System.out.println("user 2 commit");
+		System.out.println("user 2 commit");
+		System.out.println("user 3 commit 4 time");
 	}
 
 }
