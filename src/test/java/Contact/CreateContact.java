@@ -8,6 +8,7 @@ public class CreateContact
 	public void createContact()
 	{
 		System.out.println("hello word");
+		System.out.println("User 2 First commit");
 	}
 
 }
